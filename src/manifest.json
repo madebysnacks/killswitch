@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "kill",
+      "identifier": "killswitch.kill",
+      "script": "./script.js"
+    }
+  ],
+  "menu": {
+    "title": "killswitch",
+    "items": [
+      "killswitch.kill"
+    ]
+  }
+}

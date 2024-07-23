@@ -1,0 +1,23 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "kill",
+      "identifier": "killswitch.kill",
+      "script": "__script.js"
+    }
+  ],
+  "menu": {
+    "title": "killswitch",
+    "items": [
+      "killswitch.kill"
+    ]
+  },
+  "version": "0.1.0",
+  "description": "a simple sketch plugin for killing symbol overrides",
+  "name": "killswitch",
+  "identifier": "killswitch",
+  "disableCocoaScriptPreprocessor": true,
+  "appcast": "https://raw.githubusercontent.com/alexschemagin/killswitch/master/.appcast.xml"
+}
