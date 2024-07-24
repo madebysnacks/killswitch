@@ -3,13 +3,13 @@
   "icon": "icon.png",
   "commands": [
     {
-      "name": "kill",
+      "name": "Kill",
       "identifier": "killswitch.kill",
       "script": "__script.js"
     }
   ],
   "menu": {
-    "title": "killswitch",
+    "title": "Kill Switch",
     "items": [
       "killswitch.kill"
     ]

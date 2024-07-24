@@ -1,7 +1,7 @@
 {
   "name": "killswitch",
-  "description": "a simple sketch plugin for killing symbol overrides",
-  "version": "0.1.0",
+  "description": "A simple Sketch plugin that disables Symbol overrides.",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/alexschemagin/killswitch"

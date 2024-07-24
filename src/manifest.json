@@ -3,13 +3,13 @@
   "icon": "icon.png",
   "commands": [
     {
-      "name": "kill",
+      "name": "Kill Overrides",
       "identifier": "killswitch.kill",
       "script": "./script.js"
     }
   ],
   "menu": {
-    "title": "killswitch",
+    "title": "Kill Switch",
     "items": [
       "killswitch.kill"
     ]

@@ -120,9 +120,9 @@ __webpack_require__.r(__webpack_exports__);
         o++;
       });
     });
-    return sketch__WEBPACK_IMPORTED_MODULE_0___default.a.UI.message("killed " + o + " overrides");
+    return sketch__WEBPACK_IMPORTED_MODULE_0___default.a.UI.message("☠️ Killed " + o + " overrides");
   } else {
-    sketch__WEBPACK_IMPORTED_MODULE_0___default.a.UI.message("select a symbol source to kill its overrides");
+    sketch__WEBPACK_IMPORTED_MODULE_0___default.a.UI.message("🛑 Select a Symbol to kill its overrides");
   }
 });
 
