@@ -9,7 +9,7 @@ Kill Switch is a simple, but powerful plugin for Sketch that disables overrides 
 
 #### Installation
 
-- [Download](../../releases/latest/download/killswitch.sketchplugin.zip) the latest release of the plugin
+- [Download](https://github.com/madebysnacks/killswitch/releases/tag/Sketch_Plugin) the latest release of the plugin packaged as a .zip
 - Un-zip
 - Double-click on killswitch.sketchplugin
 
@@ -20,6 +20,6 @@ Kill Switch is a simple, but powerful plugin for Sketch that disables overrides 
 - Begin typing `Kill Switch` (also look for the icon) and select "Kill Overrides"
 - Alternatively, select from the application menu bar `Plugins > Kill Switch > Kill Overrides`
 
-#### Credits
+### Credits
 
 This plugin was inspired by the Sketch Overrides Manager plugin by [ozgurgunes](https://github.com/ozgurgunes/Sketch-Overrides-Manager) and is made possible by instrumental contributions and feedback from [flavormingo](https://github.com/flavormingo). Learn more about Snacks Studio at [madebysnacks.com](https://www.madebysnacks.com).
