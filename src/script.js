@@ -16,9 +16,9 @@ export default function() {
         o++
       })
     })
-    return sketch.UI.message("☠️ Killed " + o + " overrides")
+    return sketch.UI.message("killswitch » killed " + o + " overrides")
   } else {
-    sketch.UI.message("🛑 Select a Symbol to kill its overrides")
+    sketch.UI.message("killswitch » select a symbol source to kill its overrides")
   }
 
 }

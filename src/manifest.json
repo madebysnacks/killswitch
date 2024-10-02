@@ -1,19 +1,23 @@
 {
   "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
-  "name": "Kill Switch",
-  "description": "A simple plugin to kill all overrides of selected Symbols",
+  "identifier": "com.madebysnacks.killswitch",
+  "appcast": "https://cdn.jsdelivr.net/gh/madebysnacks/killswitch@master/appcast.json",
   "homepage": "https://github.com/madebysnacks/killswitch",
-  "version": "1.0.0",
+  "version": "1.1.0",
+  "name": "Kill Switch",
+  "description": "A simple Sketch plugin for disabling Symbol overrides.",
+  "author": "Snacks",
+  "authorEmail": "hello@madebysnacks.com",
   "icon": "icon.png",
   "commands": [
     {
-      "name": "Kill Overrides",
+      "name": "kill",
       "identifier": "killswitch.kill",
       "script": "./script.js"
     }
   ],
   "menu": {
-    "title": "Kill Switch",
+    "title": "killswitch",
     "items": [
       "killswitch.kill"
     ]
