@@ -2,7 +2,7 @@
 
 ![Kill Switch Sketch Plugin by Snacks Studio](https://github.com/madebysnacks/killswitch/blob/main/assets/icon.png?raw=true)
 
-Kill Switch is a simple, but powerful plugin for Sketch that disables overrides for selected Symbols. This functionality enables a blank-slate approach to Symbol creation and override management that improves Symbol adoption and usage. This plugin does not collect any personal data, usage stats, nor analytics. No LLMs were used in the creation of this plugin.
+Kill Switch is a simple, but powerful plugin for Sketch that disables overrides for selected Symbols. This functionality enables a blank-slate approach to Symbol creation and override management that improves Symbol adoption and usage. This plugin does not collect any personal data, usage stats, nor analytics. It is purely intended to deliver quality of life improvements when creating and using Symbols in Sketch.
 
 ## Requirements
 
@@ -26,4 +26,4 @@ Kill Switch is a simple, but powerful plugin for Sketch that disables overrides 
 
 ## Credits
 
-This plugin was inspired by the Sketch Overrides Manager plugin by [ozgurgunes](https://github.com/ozgurgunes/Sketch-Overrides-Manager) and is made possible by instrumental contributions and feedback from [flavormingo](https://github.com/flavormingo). Learn more about Snacks Studio at [madebysnacks.com](https://www.madebysnacks.com).
+This plugin was inspired by the Sketch Overrides Manager plugin by [ozgurgunes](https://github.com/ozgurgunes/Sketch-Overrides-Manager) and is made possible by contributions from [flavormingo](https://github.com/flavormingo). Learn more about Snacks Studio at [madebysnacks.com](https://www.madebysnacks.com).
